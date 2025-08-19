@@ -645,6 +645,7 @@ header .navbar-toggler{
              .contactForm .form-row select,
              .contactForm .form-row textarea {
               padding-block: 1rem;
+              background-color: white;
              }    
     
  @media screen and (max-width:767px) {
