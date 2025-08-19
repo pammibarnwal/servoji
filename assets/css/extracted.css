@@ -638,6 +638,7 @@ header .navbar-toggler{
             border-radius: 6px;
             font-size: 1.1rem;
             padding-left: 0.5rem;
+             background-color: white;
         }
       .contactForm .form-row input[type="text"],
            .contactForm .form-row input[type="email"],
@@ -645,7 +646,7 @@ header .navbar-toggler{
              .contactForm .form-row select,
              .contactForm .form-row textarea {
               padding-block: 1rem;
-              background-color: white;
+             
              }    
     
  @media screen and (max-width:767px) {
